@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary-color: #1F5AFE;
+    --secondary-color: #223463;
+    --tertiary-color: ;
+    --quaternary-color: ;
+    --quinary-color: ;
+    --senary-color: ;
+    --septenary-color: ;
+    --octonary-color: ;
+    --nonary-color: ;
+    --denary-color: ;
+    --success-color: #28a745;
+    --danger-color: #dc3545;
+}
+
+* {
+    box-sizing: border-box;
+}

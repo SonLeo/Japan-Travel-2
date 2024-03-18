@@ -1,0 +1,24 @@
+.navbar-item {
+    opacity: 0.6;
+}
+
+.navbar-item.active {
+    opacity: 1;
+}
+
+.navbar-item:hover {
+    color: var(--primary-color);
+    opacity: 1;
+}
+
+.nav-login:hover {
+    background-color: var(--primary-color);
+}
+
+.nav-mobile-item.active {
+    background-color: var(--primary-color);
+}
+
+.nav-mobile-item:hover {
+    background-color: var(--primary-color);
+}
